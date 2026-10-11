@@ -193,5 +193,4 @@ tests/test_fingerprint.py::test_randomized_mac_detection PASSED          [100%]
 ## ⚖️ License & Ethical Use
 
 NetPulse is released under the **MIT License**. It is created strictly for authorized network administration, educational research, and defensive security auditing. Always obtain explicit permission before scanning networks you do not own.
-#   N e t P u l s e  
- 
+#
