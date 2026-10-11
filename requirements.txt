@@ -1,0 +1,9 @@
+# Core dependencies
+rich>=13.0.0
+click>=8.0.0
+
+# Optional raw packet / elevated capabilities
+scapy>=2.5.0
+
+# Development & Testing
+pytest>=7.0.0
